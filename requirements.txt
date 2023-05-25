@@ -18,6 +18,6 @@ Pyphen==0.9.5
 PyYAML>=4.2b1
 six==1.11.0
 tinycss2==0.6.1
-tornado==5.1
+tornado==6.3.2
 WeasyPrint==44
 webencodings==0.5.1
